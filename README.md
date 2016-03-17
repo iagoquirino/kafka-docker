@@ -2,14 +2,12 @@ Kafka in Docker
 ===
 
 This repository provides Kafka in Docker.
-
-SCALA VERSION = 2.9.1
-KAFKA VERSION = 0.2.8.1
+---
+SCALA VERSION = 2.9.1 \ KAFKA VERSION = 0.2.8.1
 
 BASED ON
-https://github.com/spotify/docker-kafka
-
-https://registry.hub.docker.com/u/spotify/kafka/
+---
+https://github.com/spotify/docker-kafka \ https://registry.hub.docker.com/u/spotify/kafka/
 
 Why?
 ---
