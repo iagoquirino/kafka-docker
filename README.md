@@ -3,7 +3,7 @@ Kafka in Docker
 
 This repository provides Kafka in Docker.
 ---
-SCALA VERSION = 2.9.1 \ KAFKA VERSION = 0.2.8.1
+SCALA VERSION = 2.11 \ KAFKA VERSION = 0.2.8.1
 
 BASED ON
 ---
